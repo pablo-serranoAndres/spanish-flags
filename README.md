@@ -3,8 +3,9 @@
 [![GitHub license](https://img.shields.io/github/license/tu-usuario/tu-repositorio)](https://github.com/tu-usuario/tu-repositorio/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/tu-usuario/tu-repositorio)](https://github.com/tu-usuario/tu-repositorio/stargazers)
 
-`BanderaComunidades` es una librería en [lenguaje] que te permite obtener las banderas de las comunidades autónomas de España de manera sencilla y rápida. Ideal para proyectos educativos, aplicaciones web o cualquier proyecto que necesite mostrar estas banderas.
+`Este proyecto reúne las banderas oficiales de todas las comunidades autónomas de España en formato **SVG**. Son ideales para sitios web multilingües, aplicaciones y otros proyectos digitales que requieran representar regiones españolas de forma visual y accesible.
 
+Los archivos están en formato **SVG**, lo que garantiza gráficos vectoriales escalables sin pérdida de calidad. Cada archivo ha sido optimizado para un rendimiento web óptimo, con código limpio y tamaños reducidos. Puedes integrarlos fácilmente en proyectos HTML, CSS o frameworks como React y Vue. 
 ---
 
 ## Tabla de Contenidos
